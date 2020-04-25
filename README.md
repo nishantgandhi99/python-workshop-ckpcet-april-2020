@@ -1,5 +1,5 @@
 # Assignments: "Joy of Programming using Python-2020"
-This is assignment repository for ISTE Approved Free One WEEK Online WORKSHOP on "Joy of Programming using Python" organized by Computer Engineering department of C.K.Pithawala College of Engineering & Technology, Surat, Gujarat State, India.
+This is assignment repository for ISTE Approved Free One WEEK Online WORKSHOP on "Joy of Programming using Python" organized by Computer Engineering department of C.K.Pithawala College of Engineering & Technology, Surat, Gujarat State, India during 25 April - 1 May, 2020.
 
 ## Setup & Execution Instructions:
 
